@@ -6,17 +6,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);
 
 body{
-include filter-gradient(#53455b, #201e22, horizontal);
-  @include background-image(radial-gradient(circle at top,  rgba(83,69,91,1) 0,rgba(32,30,34,1) 70%));
-  color: #fff;
-  font-family: 'Lato', sans-serif;
-  font-size: 100%;
-  min-height: 100%;
-  line-height: 1.5;
+
   background-color: #000000;
    padding: 0px;
-  margin: 0px;}
-  #gradient{
+  margin: 0px;
+}
+  
+#gradient{
 
   width: 100%;
   height: 800px;
@@ -24,7 +20,7 @@ include filter-gradient(#53455b, #201e22, horizontal);
   margin: 0px;
 }
 
-}
+
 
 html {
   box-sizing: border-box;
