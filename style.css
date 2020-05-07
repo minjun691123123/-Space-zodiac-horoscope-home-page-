@@ -16,6 +16,16 @@ include filter-gradient(#53455b, #201e22, horizontal);
   min-height: 100%;
   line-height: 1.5;
   padding: 2.5em 0;
+  background-color: #000000;
+   padding: 0px;
+  margin: 0px;}
+  #gradient{
+
+  width: 100%;
+  height: 800px;
+  padding: 0px;
+  margin: 0px;
+}
 
 }
 
