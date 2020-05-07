@@ -1,6 +1,4 @@
-@color-1: #ff9800;
-@color-2: #f57c00;
-@color-3: #ef6c00;
+
 
 @import "compass/css3";
 
@@ -20,11 +18,7 @@ include filter-gradient(#53455b, #201e22, horizontal);
   padding: 2.5em 0;
 
 }
-.nav{
-min-width: 320px;
-  padding: 30px;
-  background: #ff9800;
-  font-family: Helvetica, sans-serif;}
+
 html {
   box-sizing: border-box;
   height: 100%;
