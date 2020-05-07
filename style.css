@@ -13,7 +13,10 @@ include filter-gradient(#53455b, #201e22, horizontal);
   font-size: 100%;
   min-height: 100%;
   line-height: 1.5;
-  padding: 2.5em 0;}
+  padding: 2.5em 0;
+min-width: 320px;
+  padding: 30px;
+  font-family: Helvetica, sans-serif;}
 html {
   box-sizing: border-box;
   height: 100%;
