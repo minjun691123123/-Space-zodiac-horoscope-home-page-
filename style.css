@@ -16,7 +16,9 @@ include filter-gradient(#53455b, #201e22, horizontal);
   padding: 2.5em 0;
 min-width: 320px;
   padding: 30px;
-  font-family: Helvetica, sans-serif;}
+  font-family: Helvetica, sans-serif;
+  background: #ff9800;
+}
 html {
   box-sizing: border-box;
   height: 100%;
