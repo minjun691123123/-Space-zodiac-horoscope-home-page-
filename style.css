@@ -73,3 +73,6 @@ tbody {
 p{
 	vertical-align:bottom;
 }
+.multi {
+  line-height: 16px;
+}
